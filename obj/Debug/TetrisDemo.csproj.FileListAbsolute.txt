@@ -1,0 +1,10 @@
+C:\Users\antho\Git\Projects\TetrisDemo\bin\Debug\TetrisDemo.exe.config
+C:\Users\antho\Git\Projects\TetrisDemo\bin\Debug\TetrisDemo.exe
+C:\Users\antho\Git\Projects\TetrisDemo\bin\Debug\TetrisDemo.pdb
+C:\Users\antho\Git\Projects\TetrisDemo\obj\Debug\TetrisDemo.csprojAssemblyReference.cache
+C:\Users\antho\Git\Projects\TetrisDemo\obj\Debug\TetrisDemo.Form1.resources
+C:\Users\antho\Git\Projects\TetrisDemo\obj\Debug\TetrisDemo.Properties.Resources.resources
+C:\Users\antho\Git\Projects\TetrisDemo\obj\Debug\TetrisDemo.csproj.GenerateResource.cache
+C:\Users\antho\Git\Projects\TetrisDemo\obj\Debug\TetrisDemo.csproj.CoreCompileInputs.cache
+C:\Users\antho\Git\Projects\TetrisDemo\obj\Debug\TetrisDemo.exe
+C:\Users\antho\Git\Projects\TetrisDemo\obj\Debug\TetrisDemo.pdb
